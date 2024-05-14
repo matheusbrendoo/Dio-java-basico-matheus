@@ -43,14 +43,11 @@ public class Operadores {
 
         if(condicao1 || condicao2){
                 System.out.println("as duas condições são verdadeiras");
+    
 
         }
-
+//
         System.out.println("Fim");
         
         }
-
-        
-
-
     }
