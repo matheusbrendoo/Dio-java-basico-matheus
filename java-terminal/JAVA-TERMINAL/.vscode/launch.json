@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "JAVA-TERMINAL_d981bbea"
+        },
+        {
+            "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "JAVA-TERMINAL_d981bbea"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Matheus",
+                "Brendo",
+                "26",
+                "1.73"
+            ]
+        }
+    ]
+}
